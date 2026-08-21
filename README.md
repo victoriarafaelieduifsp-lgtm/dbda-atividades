@@ -4,7 +4,7 @@ Repositório de entrega de atividades avaliativa de Banco de Dados.
 
 - [ ] a) Modelo físico, pois já define os tipos de dados exatos, índices e estruturas de armazenamento específicas de um SGBD
 - [ ] b) Modelo lógico
-- [  ] c) Modelo conceitual, sem se preocupar com tabelas ou SGBD
+- [ ] c) Modelo conceitual, sem se preocupar com tabelas ou SGBD
 - [ ] d) Nenhum modelo é necessário nessa etapa: as tabelas podem ser criadas diretamente, sem qualquer modelagem prévia
 - [ ] e) Modelo físico, por ser sempre a primeira etapa do projeto
 
@@ -15,6 +15,6 @@ Repositório de entrega de atividades avaliativa de Banco de Dados.
 - [ ] b) Modelo conceitual
 - [ ] c) Modelo conceitual, pois é a etapa que define os tipos de dados exatos, os índices e as estruturas físicas do banco
 - [ ] d) Não existe diferença entre modelo lógico e modelo físico
-- [  ] e) Modelo lógico, pois traduz o modelo conceitual em tabelas, colunas e chaves, ainda sem se prender aos tipos de dados exatos de um SGBD específico
+- [ ] e) Modelo lógico, pois traduz o modelo conceitual em tabelas, colunas e chaves, ainda sem se prender aos tipos de dados exatos de um SGBD específico
 
 *Justificativa: **
