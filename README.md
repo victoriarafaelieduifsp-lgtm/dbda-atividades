@@ -1,5 +1,4 @@
 # dbda-atividades
-#**Nome completo:** <Victória Rafaeli de Farias>
 Repositório de entrega de atividades avaliativa de Banco de Dados.
 1. Uma equipe está começando o projeto de um banco de dados e, nessa primeira etapa, desenha apenas as entidades e os relacionamentos do negócio (ex.: "Cliente", "Pedido"), sem se preocupar ainda com tabelas, colunas ou qual SGBD será usado. Qual modelo essa etapa representa?
 
@@ -9,7 +8,7 @@ Repositório de entrega de atividades avaliativa de Banco de Dados.
 - [ ] d) Nenhum modelo é necessário nessa etapa: as tabelas podem ser criadas diretamente, sem qualquer modelagem prévia
 - [ ] e) Modelo físico, por ser sempre a primeira etapa do projeto
 
-*Justificativa:
+*Justificativa: **
 2. Depois do modelo conceitual, a equipe traduz as entidades e relacionamentos em tabelas, colunas e chaves, mas ainda sem se prender a tipos de dados exatos de um SGBD específico (isso viria só na etapa seguinte). Qual modelo corresponde a essa tradução?
 
 - [ ] a) Modelo físico, pois já é a etapa final, independente de SGBD
@@ -18,4 +17,4 @@ Repositório de entrega de atividades avaliativa de Banco de Dados.
 - [ ] d) Não existe diferença entre modelo lógico e modelo físico
 - [  ] e) Modelo lógico, pois traduz o modelo conceitual em tabelas, colunas e chaves, ainda sem se prender aos tipos de dados exatos de um SGBD específico
 
-*Justificativa:
+*Justificativa: **
