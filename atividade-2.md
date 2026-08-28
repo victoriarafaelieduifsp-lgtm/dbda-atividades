@@ -20,4 +20,4 @@ Justificativa: a etapa de requisito é de um jeito em que os funcionários possa
 - [ x ] d) Relacionamento muitos-para-muitos (N:N)
 - [ ] e) Relacionamento muitos-para-um, pois um produto sempre pertence a um único pedido dentro do sistema de vendas
 
-Justificativa: um pedido pode ter vários produto, da mesmo forma que o produto, pode ter vários pedidos diferentes, mesmo que seja o próprio produto, dentro do pedido que foi feito.
+Justificativa: um pedido pode ter vários produtos, da mesmo forma que o produto, pode ter vários pedidos diferentes, mesmo que seja o próprio produto, dentro do pedido que foi feito.
